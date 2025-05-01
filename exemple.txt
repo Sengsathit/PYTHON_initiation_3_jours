@@ -1,0 +1,3 @@
+Bonjour, ceci est un fichier texte.
+On peut y écrire plusieurs lignes.
+Ajout d'une troisième ligne.
